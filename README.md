@@ -16,5 +16,6 @@ Este repositório contém um clone da interface do usuário do Spotify, desenvol
 ## Autores
 
 - [Rebeca Amorim](https://www.github.com/Rebeusca)
+<br>
 Este projeto é apenas para fins educativos.
 
